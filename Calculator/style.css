@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: black;
+    max-width: 100rem;
+    margin: auto;
+
+}
+
+main button{
+    font-size: 3rem;
+}
+
+main input{
+    margin-top: 1rem;
+    width: 100%;
+    font-size: 3.5rem;
+    margin-bottom: 1rem;
+    background-color: black;
+    color: green;
+    text-align: right;
+    border: 0.1rem solid yellow;
+}
+
+main section{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: minmax(15rem, auto);
+    grid-gap: 0.1rem;
+}

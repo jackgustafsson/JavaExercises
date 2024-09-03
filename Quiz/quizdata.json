@@ -1,0 +1,46 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of Sweden?", 
+            "options": ["Stockholm", "Gothenburg", "Malmö", "Helsingborg"],
+            "answer": 0
+        }, {
+            "question": "Which of the following is not a programming language?", 
+            "options": ["C++", "Python", "SQL", "Docker"],
+            "answer": 3
+        }, {
+            "question": "What is Batman's real name?", 
+            "options": ["Bruce Banner", "Bruce Wayne", "Bruce Lee", "Bruce Willis"],
+            "answer": 1
+        }, {
+            "question": "What year did the Corona virus arrive to Sweden?", 
+            "options": ["1945", "2000", "1642", "2020"],
+            "answer": 3
+        }, {
+            "question": "What is a raspberry pi?", 
+            "options": ["A small computer device", "A dessert", "A car part", "A famous wrestler"],
+            "answer": 0
+        }, {
+            "question": "What is Obama's last name?", 
+            "options": ["Barack", "Vincent", "Obama", "Hussein"],
+            "answer": 2
+        }, {
+            "question": "Who won the World Snooker Championship 2022?", 
+            "options": ["Judd Trump", "Kyren Wilson", "Mark Selby", "Ronnie O'Sullivan"],
+            "answer": 3
+        }, {
+            "question": "What martial art did Dolph Lundgren practice?", 
+            "options": ["Boxing", "Karate", "Kung fu", "Fencing"],
+            "answer": 1
+        }, {
+            "question": "Who is the Ratcatcher?", 
+            "options": ["A famous police officer", "A fictional DC character", "A former gangster", "The first person who discovered rat poison"],
+            "answer": 1
+        }, {
+            "question": "Who made this quiz?", 
+            "options": ["Batman", "Barack Obama", "Jack Gustafsson", "Dolph Lundgren"],
+            "answer": 2
+        }
+    ]
+}
+    

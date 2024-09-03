@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body{
+    max-width: 100rem;
+    margin: auto;
+    border: solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:aqua;
+    margin-top: 1rem;
+}
+
+main {
+    background-color: white;
+    padding: 2rem;
+}
+
+main h1{
+    text-align: center;
+    font-size: 3rem;
+}
+
+main section {
+    border: 0.1rem solid black;
+    margin-top: 1rem;
+    padding: 1rem;
+}
+
+main section address {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+main section input{
+    font-size: 1rem;
+    padding: 1rem;
+    margin-left: 40rem;
+    width: 10%;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+main section button{
+    font-size: 2rem;
+    padding: 1rem;
+    margin-left: 1rem;
+}
+
+main article {
+    font-size: 3rem;
+    padding: 1rem;
+}

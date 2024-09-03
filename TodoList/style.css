@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    max-width: 100rem;
+    margin: auto;
+    background-color: indianred;
+}
+
+form {
+    font-size: 3rem;
+    margin-top: 10rem;
+}
+
+form fieldset {
+    background-color: white;
+}
+
+form legend {
+    padding: 1rem;
+    margin-left: 5rem;
+    background-color: white;
+    text-decoration: underline;
+}
+
+form input {
+    font-size: 3rem;
+    width: 85%;
+    margin-top: 1rem;
+    margin-left: 3rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+form button {
+    margin-left: 1rem;
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+form ul li{
+    margin-left: 5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
