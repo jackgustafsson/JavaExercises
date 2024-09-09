@@ -48,6 +48,7 @@ body > main > section > p{
     border: solid black;
     padding: 1rem;
     border-radius: 1rem;
+    background-color: white;
 }
 
 div#content{
