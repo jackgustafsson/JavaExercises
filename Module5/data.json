@@ -1,0 +1,31 @@
+{
+    "sweden": [
+        "Volvo",
+        "Saab",
+        "Koeniggsegg"
+    ],
+    "germany": [
+        "Volkswagen",
+        "Mercedes-Benz",
+        "Audi",
+        "Opel",
+        "Porsche"
+    ],
+    "japan": [
+        "Toyota",
+        "Nissan",
+        "Mazda",
+        "Subaru",
+        "Mitsubishi",
+        "Honda",
+        "Suzuki",
+        "Lexus"
+    ],
+    "usa": [
+        "Ford",
+        "Chevrolet",
+        "Tesla",
+        "Jeep",
+        "Chrysler"
+    ]
+}
