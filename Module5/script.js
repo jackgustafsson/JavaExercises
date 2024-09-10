@@ -22,11 +22,11 @@ async function info(val) {
      */
     let obj = await res.json();
 
-    div.replaceChildren(...obj[val].map((val) => {
-        const temp_elem = document.createElement("span");
-        temp_elem.textContent = val;
-        return temp_elem
-    })
-    )
+    div.innerHTML = '';
 
+    obj[val].forEach((val) => {
+        const element = document.createElement('span');
+        element.textContent = val;
+        div.appendChild(element);
+    })
 }
